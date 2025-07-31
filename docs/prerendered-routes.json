@@ -1,0 +1,9 @@
+{
+  "routes": {
+    "/nishvanth_portfolio": {},
+    "/nishvanth_portfolio/contact": {},
+    "/nishvanth_portfolio/home": {},
+    "/nishvanth_portfolio/portfolio": {},
+    "/nishvanth_portfolio/resume": {}
+  }
+}
